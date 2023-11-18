@@ -1,5 +1,4 @@
 # Tran-A453: Translation Project
-The Open University of Hong Kong
 
 ## Project Overview
 This project involves analyzing corpuses obtained from Kaggle using NLTK and other tools, with a focus on Chinese and English news sources.
