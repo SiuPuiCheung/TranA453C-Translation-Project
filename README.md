@@ -1,16 +1,25 @@
-# Tran-A453
-Translation project (The Open University of Hong Kong)
+# Tran-A453: Translation Project
+The Open University of Hong Kong
 
-This projects is used for analysing a corpus obtained from Kaggle using NLTK and other tools.
+## Project Overview
+This project involves analyzing corpuses obtained from Kaggle using NLTK and other tools, with a focus on Chinese and English news sources.
 
-The files are created by me for the Tran-A453 project, including:
+## Contents
+1. `cn_corp.ipynb` - Analysis of a Chinese news corpus. 
+2. `cn_txt.ipynb` - Further exploration of Chinese text data. 
+3. `eng_corp-presentation-cnn.ipynb` - Detailed analysis of an English news corpus, specifically from CNN. 
+4. `eng_corp.ipynb` - General analysis of an English news corpus. 
+5. `eng_txt1.ipynb` - Exploration of English text data. 
+6. `eng_txt2.ipynb` - Additional analysis on English text data. 
 
-1 corpus analysis of Chinese news
+## Technologies Used
+- Python
+- Pandas
+- NLTK
+- Jieba (for Chinese text processing)
+- Regular Expressions
 
-1 corpus analysis of CNN news
-
-1 Chinese TMA
-
-2 English TMA
-
-1 presentation topic
+### Prerequisites
+- Python 3
+- Jupyter Notebook
+- Necessary Python libraries (pandas, NLTK, jieba)
